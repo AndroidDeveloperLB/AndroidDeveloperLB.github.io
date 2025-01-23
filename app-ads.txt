@@ -1,4 +1,7 @@
+##Admob##
 google.com, pub-5364258156299848, DIRECT, f08c47fec0942fa0
+##Admob##
+##applovin##
 applovin.com, 4646e8d198cd4a9d0fc2ba2bfe3af4a3, DIRECT
 algorix.co, 60532, RESELLER, 5b394c12fea27a1d
 contextweb.com , 562615, RESELLER, 89ff185a4c4e857c
@@ -36,6 +39,8 @@ xandr.com, 13799, RESELLER
 xandr.com, 14082, RESELLER
 yieldmo.com, 3591550211052216798, RESELLER, 6a92c77cfc3d2258
 zmaticoo.com, 5135655, RESELLER
+##applovin##
+##chartboost##
 chartboost.com, 677bd813d438ba5ed45be58f, DIRECT
 appnexus.com, 10005, RESELLER, f5ab79cb980f11d1
 bidmachine.io, 98, RESELLER
@@ -1215,7 +1220,11 @@ copper6.com, 764091, RESELLER
 ucfunnel.com, par-E2B3A33EAA4286BEF7ADD9AA28A922D2, RESELLER
 aralego.com, par-E2B3A33EAA4286BEF7ADD9AA28A922D2, RESELLER
 adiiix.com, db716a4c, RESELLER
+##chartboost##
+##equativ##
 smartadserver.com, 4194-OB, RESELLER, 060d053dcf45cbf3
+##equativ##
+##inmobi##
 inmobi.com, 51c960d6a3bd430fab6ae6edcc4fccf3, DIRECT, 83e75a7ae333ca9d
 rubiconproject.com, 11726, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 12266, RESELLER, 0bfd66d529a55807
@@ -1311,8 +1320,12 @@ e-planning.net, 608359bb987625b2, RESELLER, c1ba615865ed87b2
 pubmatic.com, 157559, RESELLER, 5d62403b186f2ace
 sonobi.com, 45dd948092, RESELLER, d1a215d9eb5aee9e
 thunder-monetize.com, 3905806597, RESELLER
+##inmobi##
+##magnite and rubicon##
 rubiconproject.com, 22884, DIRECT, 0bfd66d529a55807
 rubiconproject.com, 22884, RESELLER, 0bfd66d529a55807
+##magnite and rubicon##
+##mintegral##
 mintegral.com, 51572, DIRECT, 0aeed750c80d6423
 pokkt.com, 7139, RESELLER, c45702d9311e25fd
 appads.in, 107139, RESELLER
@@ -2138,12 +2151,15 @@ mlion.io, 115104695, RESELLER
 video.unrulymedia.com, 505354689, RESELLER
 conversantmedia.com, 100791, RESELLER, 03113cd04947736d
 themediagrid.com, NG9STC, DIRECT, 35d5010d7789b49d
+##mintegral##
 ##Mobfox##
 uis.mobfox.com, 2358, DIRECT, 5529a3d1f59865be
 pubmatic.com, 156451, RESELLER, 5d62403b186f2ace
+##Mobfox##
+##openx##
 openx.com, 561621168, DIRECT, 6a698e2ec38604c6
-rubiconproject.com, 22884, DIRECT, 0bfd66d529a55807
-rubiconproject.com, 22884, RESELLER, 0bfd66d529a55807
+##openx##
+##vungle or liftoff##
 vungle.com,[67681bb9dedcad00113cf7dd],DIRECT,c107d686becd2d77
 33across.com,0015a00002egvRSAAY,RESELLER,bbea06d9c4d2853c
 Contextweb.com,562852,RESELLER,89ff185a4c4e857c
@@ -2504,3 +2520,4 @@ zetaglobal.net,815,RESELLER
 zetaglobal.net,998,RESELLER
 zmaticoo.com,5135224,RESELLER
 zoomd.com,88478941,RESELLER
+##vungle or liftoff##
