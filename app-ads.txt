@@ -2854,3 +2854,7 @@ appnexus.com, 13099, RESELLER
 pubmatic.com, 161593, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
 ##onetag##
+##pangle##
+pangleglobal.com, 5025612, DIRECT
+pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
+##pangle##
