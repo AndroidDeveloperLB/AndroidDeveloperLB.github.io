@@ -1270,6 +1270,7 @@ freewheel.tv, 1606620, RESELLER
 freewheel.tv, 1606633, RESELLER
 bidmachine.io, 198, RESELLER
 pubmatic.com, 166180, RESELLER, 5d62403b186f2ace
+lijit.com, 548876, RESELLER, fafdf38b16bf6b2b
 ##chartboost##
 ##equativ##
 smartadserver.com, 4194-OB, RESELLER, 060d053dcf45cbf3
