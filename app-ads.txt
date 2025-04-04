@@ -2313,6 +2313,7 @@ adtiming.com,a-126,RESELLER,bf66753b8f380142
 adview.com,06667060,RESELLER,1b2cc038a11ea319
 adview.com,32076181,RESELLER,1b2cc038a11ea319
 advlion.com,3117,RESELLER
+adyoulike.com,76375ac0f5abb5a550c87326b9063b59,RESELLER
 adyoulike.com,78afbc34fac571736717317117dfa247,RESELLER
 adyoulike.com,994b7b4e03898048761c7110f11e56c2,RESELLER
 adyoulike.com,e48120b055ac0abcc41c0093bf3fe02e,RESELLER
@@ -2369,6 +2370,7 @@ conversantmedia.com,100269,RESELLER,03113cd04947736d
 conversantmedia.com,100358,RESELLER,03113cd04947736d
 conversantmedia.com,100396,RESELLER,03113cd04947736d
 conversantmedia.com,100863,RESELLER,03113cd04947736d
+conversantmedia.com,100886,RESELLER,03113cd04947736d
 copper6.com,764118,RESELLER
 criteo.com,B-074375,RESELLER,9fac4a4a87c2a44f
 display.io,173162,RESELLER
@@ -2442,6 +2444,7 @@ loopme.com,9718,RESELLER,6c8d5f95897a5a3b
 lunamedia.io,95ed51edc1cb499baaf3476fcb6fa463,RESELLER,524ecb396915caaf
 mars.media,1010422,RESELLER,8624339f102fb076
 mars.media,107876,RESELLER,8624339f102fb076
+media.net,8CU76268D,RESELLER
 media.net,8CUI89K0D,RESELLER
 media.net,8CUN37DCC,RESELLER
 media.net,8CUP1N1F2,RESELLER
@@ -2591,7 +2594,7 @@ sharethrough.com,Bc6D1WHS,RESELLER,d53b998a7bd4ecd2
 sharethrough.com,DQQogebZ,RESELLER,d53b998a7bd4ecd2
 sharethrough.com,NIRSC9f2,RESELLER,d53b998a7bd4ecd2
 sharethrough.com,UbYLkrys,RESELLER,d53b998a7bd4ecd2
-sharethrough.com,XeKuhSkz,RESELLER,d53b998a7bd4ecd2a
+sharethrough.com,XeKuhSkz,RESELLER,d53b998a7bd4ecd2
 sharethrough.com,ZqrIAHsE,RESELLER,d53b998a7bd4ecd2
 sharethrough.com,bXzzb1bR,RESELLER,d53b998a7bd4ecd2
 showheroes.com,6031,RESELLER
@@ -2650,6 +2653,7 @@ taurusx.com,80609,RESELLER
 thebrave.io,1234632,RESELLER,c25b2154543746ac
 thebrave.io,1234633,RESELLER,c25b2154543746ac
 thebrave.io,9840732,RESELLER,c25b2154543746ac
+themediagrid.com,1283WV,RESELLER,35d5010d7789b49d
 themediagrid.com,A8X5S7,RESELLER,35d5010d7789b49d
 themediagrid.com,DY1OVP,RESELLER,35d5010d7789b49d
 themediagrid.com,SWH94X,RESELLER,35d5010d7789b49d
@@ -2707,6 +2711,7 @@ xandr.com,15840,RESELLER
 yeahmobi.com,114122,RESELLER
 yieldmo.com,2754490424016969782,RESELLER
 yieldmo.com,3591550211052216798,RESELLER,6a92c77cfc3d2258
+yieldmo.com,3761877318507634863,RESELLER,6a92c77cfc3d2258
 zetaglobal.com,815,RESELLER
 zetaglobal.net,757,RESELLER
 zetaglobal.net,815,RESELLER
