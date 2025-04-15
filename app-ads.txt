@@ -1839,6 +1839,7 @@ advlion.com,3117,RESELLER
 adyoulike.com,76375ac0f5abb5a550c87326b9063b59,RESELLER
 adyoulike.com,78afbc34fac571736717317117dfa247,RESELLER
 adyoulike.com,994b7b4e03898048761c7110f11e56c2,RESELLER
+adyoulike.com,a2226c27fc2a6773f6a2b365e013513a,RESELLER
 adyoulike.com,e48120b055ac0abcc41c0093bf3fe02e,RESELLER
 adyoulike.com,f78b24039641337f06634ab9a3da4b48,RESELLER
 algorix.co,604633,RESELLER,5b394c12fea27a1d
@@ -1853,6 +1854,7 @@ appnexus.com,13297,RESELLER,f5ab79cb980f11d1
 appnexus.com,15349,RESELLER,f5ab79cb980f11d1
 appnexus.com,15426,RESELLER,f5ab79cb980f11d1
 appnexus.com,15816,RESELLER,f5ab79cb980f11d1
+appnexus.com,17417,RESELLER,f5ab79cb980f11d1
 appnexus.com,1752,RESELLER,f5ab79cb980f11d1
 appnexus.com,4052,RESELLER
 appnexus.com,7351,RESELLER,f5ab79cb980f11d1
@@ -1917,7 +1919,6 @@ growintech.co,2723d092b63885e0d7c260cc007e8b9d2393g,RESELLER,9d8dfe5c6b00fb37
 hindsightsolutions.net,323-b5738,RESELLER,20e30b2ae1f670f2
 iion.io,10162,RESELLER
 improvedigital.com,1795,RESELLER
-improvedigital.com,2316,RESELLER
 improvedigital.com,2371,RESELLER
 improvedigital.com,2451,RESELLER
 improvedigital.com,2505,RESELLER
@@ -2130,6 +2131,7 @@ sharethrough.com,XeKuhSkz,RESELLER,d53b998a7bd4ecd2
 sharethrough.com,ZqrIAHsE,RESELLER,d53b998a7bd4ecd2
 sharethrough.com,bXzzb1bR,RESELLER,d53b998a7bd4ecd2
 showheroes.com,6031,RESELLER
+showheroes.com,6037,RESELLER
 silvermob.com,419,RESELLER
 singularads.com,548745,RESELLER
 smaato.com,1100004890,RESELLER,07bcf65f187117b4
@@ -2138,6 +2140,7 @@ smaato.com,1100049757,RESELLER,07bcf65f187117b4
 smaato.com,1100051149,RESELLER,07bcf65f187117b4
 smaato.com,1100052485,RESELLER,07bcf65f187117b4
 smaato.com,1100056110,RESELLER,07bcf65f187117b4
+smaato.com,1100058954,RESELLER,07bcf65f187117b4
 smartadserver.com,1692,RESELLER
 smartadserver.com,3117,RESELLER
 smartadserver.com,3232,RESELLER
@@ -2171,6 +2174,7 @@ sonobi.com,5b003395a5,RESELLER,d1a215d9eb5aee9e
 sonobi.com,7b37f8ccbc,RESELLER,d1a215d9eb5aee9e
 sonobi.com,a257177742,RESELLER,d1a215d9eb5aee9e
 sonobi.com,b43e9530e7,RESELLER,d1a215d9eb5aee9e
+sonobi.com,cddceeb06e,RESELLER,d1a215d9eb5aee9e
 sonobi.com,d2b13d1c36,RESELLER,d1a215d9eb5aee9e
 sovrn.com,500520,RESELLER,fafdf38b16bf6b2b
 spinx.biz,1373698863,RESELLER
@@ -2241,6 +2245,7 @@ xandr.com,13297,RESELLER,f5ab79cb980f11d1
 xandr.com,13799,RESELLER
 xandr.com,15426,RESELLER,f5ab79cb980f11d1
 xandr.com,15840,RESELLER
+xandr.com,17417,RESELLER,f5ab79cb980f11d1
 yeahmobi.com,114122,RESELLER
 yieldmo.com,2754490424016969782,RESELLER
 yieldmo.com,3591550211052216798,RESELLER,6a92c77cfc3d2258
