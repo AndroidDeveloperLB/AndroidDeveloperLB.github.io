@@ -1962,6 +1962,8 @@ lijit.com,512156,RESELLER,fafdf38b16bf6b2b
 lijit.com,512908,RESELLER,fafdf38b16bf6b2b
 lijit.com,530498,RESELLER,fafdf38b16bf6b2b
 lijit.com,543478,RESELLER,fafdf38b16bf6b2b
+lijit.com,545922,RESELLER,fafdf38b16bf6b2b
+lijit.com,545924,RESELLER,fafdf38b16bf6b2b
 loopme.com,10999,RESELLER,6c8d5f95897a5a3b
 loopme.com,11322,RESELLER,6c8d5f95897a5a3b
 loopme.com,11347,RESELLER,6c8d5f95897a5a3b
