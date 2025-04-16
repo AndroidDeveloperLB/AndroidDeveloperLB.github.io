@@ -2449,6 +2449,8 @@ appnexus.com, 17234, RESELLER
 media.net, 8cu813e2h, RESELLER
 contextweb.com, 563079, RESELLER, 89ff185a4c4e857c
 smartadserver.com, 4839, RESELLER, 060d053dcf45cbf3
+appnexus.com, 1354, RESELLER
+appnexus.com, 16244, RESELLER
 ##unity##
 ##onetag##
 onetag.com, 927fdaf242f43e8, DIRECT
