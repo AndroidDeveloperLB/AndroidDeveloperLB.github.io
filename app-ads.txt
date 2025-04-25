@@ -1811,6 +1811,7 @@ unrulymedia.com, 476748946, RESELLER
 bidmachine.io, 1065, RESELLER
 bidmachine.io, 1064, RESELLER
 lijit.com, 411121, RESELLER, fafdf38b16bf6b2b #SOVRN
+video.unrulymedia.com, 475093422, RESELLER
 ##mintegral##
 ##Mobfox##
 uis.mobfox.com, 2358, DIRECT, 5529a3d1f59865be
