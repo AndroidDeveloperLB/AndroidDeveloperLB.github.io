@@ -2488,6 +2488,8 @@ thebrave.io, 1234764, DIRECT, c25b2154543746ac
 sharethrough.com, sniqcomc, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, 5294, RESELLER, d53b998a7bd4ecd2
 smartadserver.com, 5294, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4190, RESELLER, 060d053dcf45cbf3
+app-stock.com, 384491, RESELLER
 ##unity##
 ##onetag##
 onetag.com, 927fdaf242f43e8, DIRECT
