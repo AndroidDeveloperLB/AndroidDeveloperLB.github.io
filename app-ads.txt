@@ -1888,6 +1888,8 @@ bid-matrix.com,7a33a9718c7ee898,RESELLER
 bidease.com,bidease_seller_31,RESELLER
 bidence.com,b8932c93bf4123ee6d969796302a037c,RESELLER
 bidence.com,d35302328a4b1f129d376f9c2932b0b7,RESELLER
+bidmachine.io,1064,RESELLER
+bidmachine.io,1065,RESELLER
 blueseasx.com,203592,RESELLER,7998eac5087f6110
 caerulus.io,3320-72775,RESELLER
 consumable.com,2001585,RESELLER,aefcd3d2f45b5070
@@ -2145,6 +2147,7 @@ sharethrough.com,UbYLkrys,RESELLER,d53b998a7bd4ecd2
 sharethrough.com,XeKuhSkz,RESELLER,d53b998a7bd4ecd2
 sharethrough.com,ZqrIAHsE,RESELLER,d53b998a7bd4ecd2
 sharethrough.com,bXzzb1bR,RESELLER,d53b998a7bd4ecd2
+sharethrough.com,wRgOcZeV,RESELLER,d53b998a7bd4ecd2
 showheroes.com,6031,RESELLER
 showheroes.com,6037,RESELLER
 silvermob.com,419,RESELLER
@@ -2239,6 +2242,7 @@ video.unrulymedia.com,4201299756,RESELLER
 video.unrulymedia.com,4268206200,RESELLER
 video.unrulymedia.com,4631344382657206988,RESELLER
 video.unrulymedia.com,475093422,RESELLER
+video.unrulymedia.com,476748946,RESELLER
 video.unrulymedia.com,5127265468568773826,RESELLER
 video.unrulymedia.com,5336134699710583737,RESELLER
 video.unrulymedia.com,557688749,RESELLER
