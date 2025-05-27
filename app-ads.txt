@@ -890,6 +890,9 @@ eliteappgrade.com, 514554, RESELLER
 fromthetop.io, 65529, RESELLER
 iion.io, 10171, RESELLER, 013a29748465dc57
 adingenious.com, 75036, RESELLER
+apester.com, 2212, RESELLER
+myfeature.tv, N1fNlXquFCVDX3gt6MJN, RESELLER
+hindsightsolutions.net, HSINMOBI100000, RESELLER
 ##inmobi##
 ##magnite and rubicon##
 rubiconproject.com, 22884, DIRECT, 0bfd66d529a55807
@@ -2521,6 +2524,7 @@ thebrave.io, 1234764, RESELLER, c25b2154543746ac
 ushareit.com, LCb555b3bc8667a09a, RESELLER
 lacunads.com, LCb555b3bc8667a09a, RESELLER
 themediagrid.com, FALINO, RESELLER, 35d5010d7789b49d
+lijit.com, 556191, RESELLER, fafdf38b16bf6b2b
 ##unity##
 ##onetag##
 onetag.com, 927fdaf242f43e8, DIRECT
