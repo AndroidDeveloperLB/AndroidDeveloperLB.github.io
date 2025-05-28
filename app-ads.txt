@@ -801,6 +801,8 @@ smartadserver.com, 4539, RESELLER, 060d053dcf45cbf3
 admanmedia.com, 2045, RESELLER
 inmobi.com, 79b5caeef5114b618a16266b6c552933, RESELLER, 83e75a7ae333ca9d
 smartadserver.com, 4868, RESELLER, 060d053dcf45cbf3
+trustedstack.com, TSCLS3659, RESELLER
+lijit.com, 511365, RESELLER, fafdf38b16bf6b2b #VoiseTech
 ##chartboost##
 ##equativ##
 smartadserver.com, 4194-OB, RESELLER, 060d053dcf45cbf3
