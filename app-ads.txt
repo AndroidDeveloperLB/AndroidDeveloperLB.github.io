@@ -1790,6 +1790,7 @@ pubmatic.com, 156451, RESELLER, 5d62403b186f2ace
 openx.com, 561621168, DIRECT, 6a698e2ec38604c6
 ##openx##
 ##vungle or liftoff##
+vungle.com,67681bb9dedcad00113cf7dd,DIRECT,c107d686becd2d77
 Contextweb.com,562852,RESELLER,89ff185a4c4e857c
 Media.net,8CU12AQ1Y,RESELLER
 Media.net,8CU9B72O6,RESELLER
