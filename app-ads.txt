@@ -1780,6 +1780,7 @@ sharethrough.com, veuioj8F, RESELLER, d53b998a7bd4ecd2
 opera.com, pub12998959884416, RESELLER, 55a0c5fd61378de3
 adsinteractive.com, 39993, RESELLER
 adingo.jp, 32534, RESELLER
+rubiconproject.com, 27386, RESELLER, 0bfd66d529a55807
 ##mintegral##
 ##Mobfox##
 uis.mobfox.com, 2358, DIRECT, 5529a3d1f59865be
@@ -1789,7 +1790,6 @@ pubmatic.com, 156451, RESELLER, 5d62403b186f2ace
 openx.com, 561621168, DIRECT, 6a698e2ec38604c6
 ##openx##
 ##vungle or liftoff##
-vungle.com,67681bb9dedcad00113cf7dd,DIRECT,c107d686becd2d77
 Contextweb.com,562852,RESELLER,89ff185a4c4e857c
 Media.net,8CU12AQ1Y,RESELLER
 Media.net,8CU9B72O6,RESELLER
@@ -1896,6 +1896,8 @@ freewheel.tv,1157729,RESELLER
 freewheel.tv,1157777,RESELLER
 freewheel.tv,1590601,RESELLER
 freewheel.tv,1590606,RESELLER
+freewheel.tv,1604590,RESELLER
+freewheel.tv,1604595,RESELLER
 fromthetop.io,65536,RESELLER
 gitberry.com,405100012,RESELLER
 gitberry.com,90scb,RESELLER
@@ -1975,6 +1977,7 @@ mman.kr,33476,RESELLER
 mobupps.com,c74d97b01eae257e44aa9d5bade97baf32954,RESELLER
 mobupps.com,c74d97b01eae257e44aa9d5bade97baf7726,RESELLER
 onairglobal.com,4357629,RESELLER
+onetag.com,5d0d72448d8bfb0,RESELLER
 onetag.com,8668c16092f01e8,RESELLER,0bfd66d529a55807
 onetag.com,8dd8de7f341d57e,RESELLER
 onlinemediasolutions.com,20444,RESELLER
@@ -2049,6 +2052,7 @@ pubmatic.com,163476,RESELLER,5d62403b186f2ace
 pubmatic.com,164532,RESELLER,5d62403b186f2ace
 pubmatic.com,165117,RESELLER,5d62403b186f2ace
 pubmatic.com,165438,RESELLER,5d62403b186f2ace
+pubmatic.com,165874,RESELLER,5d62403b186f2ace
 pubmatic.com,165980,RESELLER,5d62403b186f2ace
 pubmatic.com,166078,RESELLER,5d62403b186f2ace
 pubmatic.com,166409,RESELLER,5d62403b186f2ace
@@ -2110,6 +2114,7 @@ rubiconproject.com,26846,RESELLER,0bfd66d529a55807
 rubiconproject.com,26958,RESELLER,0bfd66d529a55807
 saharmedia.net,1683858,RESELLER
 sharethrough.com,26VgE1nN,RESELLER,d53b998a7bd4ecd2
+sharethrough.com,2f18331a,RESELLER,d53b998a7bd4ecd2
 sharethrough.com,4762,RESELLER,d53b998a7bd4ecd2
 sharethrough.com,5026,RESELLER,d53b998a7bd4ecd2
 sharethrough.com,6qlnf8SY,RESELLER,d53b998a7bd4ecd2
@@ -2221,6 +2226,7 @@ video.unrulymedia.com,476748946,RESELLER
 video.unrulymedia.com,5127265468568773826,RESELLER
 video.unrulymedia.com,5336134699710583737,RESELLER
 video.unrulymedia.com,557688749,RESELLER
+video.unrulymedia.com,586616193,RESELLER
 video.unrulymedia.com,689559416,RESELLER
 video.unrulymedia.com,755432070,RESELLER
 video.unrulymedia.com,827123801,RESELLER
