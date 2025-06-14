@@ -1918,6 +1918,7 @@ improvedigital.com,2528,RESELLER
 improvedigital.com,2529,RESELLER
 improvedigital.com,2530,RESELLER
 improvedigital.com,2542,RESELLER
+improvedigital.com,2605,RESELLER
 inmobi.com,12a9a79d60214a40a444a6103b81747c,RESELLER,83e75a7ae333ca9d
 inmobi.com,22e5354e453f49348325184e25464adb,RESELLER,83e75a7ae333ca9d
 inmobi.com,23800006c42e4a739966c05ca0ac4854,RESELLER,83e75a7ae333ca9d
@@ -2211,6 +2212,7 @@ unrulymedia.com,2464975885,RESELLER
 unrulymedia.com,689559416,RESELLER
 verve.com,14619,RESELLER,0c8f5958fc2d6270
 verve.com,15503,RESELLER,0c8f5958fc2d6270
+video.unrulymedia.com,146647607,RESELLER
 video.unrulymedia.com,169764768,RESELLER
 video.unrulymedia.com,2099898025,RESELLER
 video.unrulymedia.com,2613193077,RESELLER
