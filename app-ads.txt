@@ -1792,6 +1792,8 @@ smaato.com, 1100057628, RESELLER, 07bcf65f187117b4
 admatic.com.tr, adm-pub-3033566192, RESELLER, uufps1dh5stc6euk
 smaato.com, 1100057546, RESELLER, 07bcf65f187117b4
 smartadserver.com, 4543, RESELLER, 060d053dcf45cbf3
+toponad.com, 16385e313a271a, RESELLER, 1d49fe424a1a456d
+toponad.com, 1661f80179644e, RESELLER, 1d49fe424a1a456d
 ##mintegral##
 ##Mobfox##
 uis.mobfox.com, 2358, DIRECT, 5529a3d1f59865be
@@ -1818,12 +1820,15 @@ adiiix.com,a714bbf8,RESELLER
 adiiix.com,db716a4c,RESELLER
 adingo.jp,31054,RESELLER
 adipolo.com,22899268170,RESELLER
+admanmedia.com,2045,RESELLER
 admanmedia.com,2248,RESELLER
 admanmedia.com,990,RESELLER
 admixer.co.kr,1094,RESELLER
 admixer.co.kr,1610,RESELLER
 admixer.co.kr,1654,RESELLER
 admixer.net,5c5e6567-8486-42b9-9315-9262bd744b71,RESELLER
+admixer.net,8e380da6-31ba-488c-939c-290c48d577e4,RESELLER
+adnuro.com,4572507814,RESELLER
 adtiming.com,a-126,RESELLER,bf66753b8f380142
 adview.com,06667060,RESELLER,1b2cc038a11ea319
 adview.com,32076181,RESELLER,1b2cc038a11ea319
@@ -1836,22 +1841,31 @@ adyoulike.com,e48120b055ac0abcc41c0093bf3fe02e,RESELLER
 adyoulike.com,f78b24039641337f06634ab9a3da4b48,RESELLER
 alaska-gaming.com,19879,RESELLER
 algorix.co,604633,RESELLER,5b394c12fea27a1d
+alpecs.com,4116628010,RESELLER
 aniview.com,603f65a2e291680ef30af9c7,RESELLER,78b21b97965ec3f8
+app-stock.com,132556,RESELLER
 app-stock.com,343264,RESELLER
+appnexus.com,1019,RESELLER,f5ab79cb980f11d1
 appnexus.com,11470,RESELLER
 appnexus.com,11826,RESELLER
 appnexus.com,11924,RESELLER,f5ab79cb980f11d1
+appnexus.com,12061,RESELLER,f5ab79cb980f11d1
+appnexus.com,12622,RESELLER
 appnexus.com,12700,RESELLER,f5ab79cb980f11d1
 appnexus.com,12878,RESELLER,f5ab79cb980f11d1
 appnexus.com,13293,RESELLER
 appnexus.com,13297,RESELLER,f5ab79cb980f11d1
+appnexus.com,14080,RESELLER,f5ab79cb980f11d1
 appnexus.com,15349,RESELLER,f5ab79cb980f11d1
 appnexus.com,15426,RESELLER,f5ab79cb980f11d1
+appnexus.com,15629,RESELLER
 appnexus.com,15816,RESELLER,f5ab79cb980f11d1
+appnexus.com,15980,RESELLER,f5ab79cb980f11d1
 appnexus.com,17417,RESELLER,f5ab79cb980f11d1
 appnexus.com,1752,RESELLER,f5ab79cb980f11d1
 appnexus.com,4052,RESELLER
 appnexus.com,7351,RESELLER,f5ab79cb980f11d1
+appnexus.com,7556,RESELLER,f5ab79cb980f11d1
 appnexus.com,7597,RESELLER,f5ab79cb980f11d1
 appnexus.com,9316,RESELLER,f5ab79cb980f11d1
 appsheep.com,3a930d9b024c457d966d480b3421e3dd,RESELLER
@@ -1859,9 +1873,15 @@ aralego.com,par-9A23ADEEDB99A76804B276748E8E2434,RESELLER
 aralego.com,par-AA7B236BA32DD484C838E249362437B8,RESELLER
 aralego.com,par-D2346AAB7ABD36B4CDD7BBD264BA92E2,RESELLER
 aralego.com,par-E2B3A33EAA4286BEF7ADD9AA28A922D2,RESELLER
+axonix.com,56805,RESELLER,bc385f2b4a87b721
+axonix.com,59089,RESELLER,bc385f2b4a87b721
+axonix.com,59107,RESELLER,bc385f2b4a87b721
+axonix.com,59150,RESELLER,bc385f2b4a87b721
 azberry.com,321006,RESELLER
 balloonlabs.ai,3412752782,RESELLER
+balloonlabs.ai,7384703023,RESELLER
 bematterfull.com,22289765,RESELLER
+bematterfull.com,792278057361,RESELLER
 betweendigital.com,43843,RESELLER
 betweendigital.com,43860,RESELLER
 betweendigital.com,44098,RESELLER
@@ -1870,12 +1890,16 @@ betweendigital.com,45270,RESELLER
 betweendigital.com,45656,RESELLER
 bid-matrix.com,7a33a9718c7ee898,RESELLER
 bidease.com,bidease_seller_31,RESELLER
+bidease.com,bidease_seller_8,RESELLER
 bidence.com,b8932c93bf4123ee6d969796302a037c,RESELLER
 bidence.com,d35302328a4b1f129d376f9c2932b0b7,RESELLER
 bidmachine.io,1064,RESELLER
 bidmachine.io,1065,RESELLER
 bidmachine.io,98,RESELLER
+blis.com,86,RESELLER,61453ae19a4b73f4
 blueseasx.com,203592,RESELLER,7998eac5087f6110
+bold-win.com,160,RESELLER,71746737d0bab951
+brightcom.com,20480,RESELLER
 caerulus.io,3320-72775,RESELLER
 connekt.ai,4498663579,RESELLER
 consumable.com,2001585,RESELLER,aefcd3d2f45b5070
@@ -1932,7 +1956,10 @@ improvedigital.com,2528,RESELLER
 improvedigital.com,2529,RESELLER
 improvedigital.com,2530,RESELLER
 improvedigital.com,2542,RESELLER
+improvedigital.com,2602,RESELLER
+improvedigital.com,2603,RESELLER
 improvedigital.com,2605,RESELLER
+improvedigital.com,2606,RESELLER
 inmobi.com,12a9a79d60214a40a444a6103b81747c,RESELLER,83e75a7ae333ca9d
 inmobi.com,22e5354e453f49348325184e25464adb,RESELLER,83e75a7ae333ca9d
 inmobi.com,23800006c42e4a739966c05ca0ac4854,RESELLER,83e75a7ae333ca9d
