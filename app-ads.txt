@@ -767,6 +767,7 @@ smartadserver.com, 4868, RESELLER, 060d053dcf45cbf3
 trustedstack.com, TSCLS3659, RESELLER
 lijit.com, 511365, RESELLER, fafdf38b16bf6b2b #VoiseTech
 improvedigital.com, 2604, RESELLER
+programmaticx.ai, 6654983, RESELLER, b42d42eb28400efa
 ##chartboost##
 ##equativ##
 smartadserver.com, 4194-OB, RESELLER, 060d053dcf45cbf3
