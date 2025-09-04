@@ -792,6 +792,7 @@ pubmatic.com, 157097, RESELLER, 5d62403b186f2ace
 pubnative.net, 1006951, RESELLER, d641df8625486a7b
 smaato.com, 1100053415, RESELLER, 07bcf65f187117b4
 loopme.com, 9724, RESELLER, 6c8d5f95897a5a3b
+loopme.com, 15665, RESELLER, 6c8d5f95897a5a3b
 zmaticoo.com, 5135082, RESELLER
 zmaticoo.com, 113149, RESELLER
 lijit.com, 502742, RESELLER, fafdf38b16bf6b2b
@@ -841,6 +842,7 @@ smartyads.com, 478, RESELLER, fd2bde0ff2e62c5d
 appnexus.com, 15670, RESELLER
 mobismarter.com, 3294, RESELLER
 contextweb.com, 558638, RESELLER, 89ff185a4c4e857c
+mobupps.com, c74d97b01eae257e44aa9d5bade97baf33094, RESELLER
 eliteappgrade.com, 514554, RESELLER
 yellowhead.com, 67b9c0a1d2e345, RESELLER
 voisetech.com, 1023, RESELLER
@@ -856,6 +858,7 @@ gitberry.com, 335100012, RESELLER
 mman.kr, 32102, RESELLER
 acexchange.co.kr, 1562884725, RESELLER
 adingenious.com, 75036, RESELLER
+tradplusad.com, ba761e9c72f279da, RESELLER
 ##inmobi##
 ##magnite and rubicon##
 rubiconproject.com, 22884, DIRECT, 0bfd66d529a55807
@@ -1831,6 +1834,9 @@ smartadserver.com, 4395, RESELLER, 060d053dcf45cbf3
 openx.com, 537140488, RESELLER, 6a698e2ec38604c6
 33across.com, 0010b00002Xbn7QAAR, RESELLER, bbea06d9c4d2853c
 voisetech.com, 1127, RESELLER, 9009ef0379162448
+media.net, 8CUE65SNU, RESELLER
+freewheel.tv, 1138513-524565, RESELLER
+freewheel.tv, sg1258340, RESELLER
 ##mintegral##
 ##Mobfox##
 uis.mobfox.com, 2358, DIRECT, 5529a3d1f59865be
