@@ -1902,7 +1902,6 @@ betweendigital.com,45270,RESELLER
 bid-matrix.com,7a33a9718c7ee898,RESELLER
 bidease.com,bidease_seller_31,RESELLER
 bidease.com,bidease_seller_8,RESELLER
-bidence.com,b8932c93bf4123ee6d969796302a037c,RESELLER
 bidmachine.io,1064,RESELLER
 bidmachine.io,1065,RESELLER
 bidmachine.io,98,RESELLER
@@ -2064,7 +2063,6 @@ pubmatic.com,161162,RESELLER,5d62403b186f2ace
 pubmatic.com,161267,RESELLER,5d62403b186f2ace
 pubmatic.com,161372,RESELLER,5d62403b186f2ace
 pubmatic.com,161748,RESELLER,5d62403b186f2ace
-pubmatic.com,162161,RESELLER,5d62403b186f2ace
 pubmatic.com,162223,RESELLER,5d62403b186f2ace
 pubmatic.com,162882,RESELLER,5d62403b186f2ace
 pubmatic.com,162974,RESELLER,5d62403b186f2ace
@@ -2200,7 +2198,6 @@ ssp.e-volution.ai,AJxF6R189a9M6CaTvK,RESELLER
 ssp.zetaglobal.net,815,RESELLER
 start.io,162328800,RESELLER
 targetspot.com,297,RESELLER,feb28ed826dcf532
-taurusx.com,80066,RESELLER
 taurusx.com,80609,RESELLER
 taurusx.com,80614,RESELLER
 thebrave.io,1234632,RESELLER,c25b2154543746ac
