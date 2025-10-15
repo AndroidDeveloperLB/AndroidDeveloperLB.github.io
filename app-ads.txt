@@ -1841,6 +1841,7 @@ freewheel.tv, sg1258340, RESELLER
 supply.colossusssp.com, 907, RESELLER
 pubmatic.com, 167188, RESELLER, 5d62403b186f2ace
 zetaglobal.net, 512, RESELLER
+themediagrid.com, WS2D8N, RESELLER, 35d5010d7789b49d
 ##mintegral##
 ##Mobfox##
 uis.mobfox.com, 2358, DIRECT, 5529a3d1f59865be
@@ -2527,6 +2528,8 @@ bidmachine.io, 113, RESELLER
 improvedigital.com, 2609, RESELLER
 loopme.com, 15629, RESELLER, 6c8d5f95897a5a3b
 taurusx.com, 80635, RESELLER
+outbrain.com, 0073fa86cff719c752763d2c3ee52c8f00, RESELLER
+video.unrulymedia.com, 657436911, RESELLER
 ##unity##
 ##onetag##
 onetag.com, 927fdaf242f43e8, DIRECT
