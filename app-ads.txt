@@ -2530,6 +2530,7 @@ loopme.com, 15629, RESELLER, 6c8d5f95897a5a3b
 taurusx.com, 80635, RESELLER
 outbrain.com, 0073fa86cff719c752763d2c3ee52c8f00, RESELLER
 video.unrulymedia.com, 657436911, RESELLER
+indexexchange.com, 214183, RESELLER, 50b1c356f2c5c8fc
 ##unity##
 ##onetag##
 onetag.com, 927fdaf242f43e8, DIRECT
