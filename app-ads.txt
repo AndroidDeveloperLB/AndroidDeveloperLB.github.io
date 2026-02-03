@@ -5,11 +5,7 @@ google.com, pub-5364258156299848, DIRECT, f08c47fec0942fa0
 facebook.com, 1735783277278935, RESELLER, c3e20eee3f780d68
 ##Facebook/Meta##
 ##LINE##
-line.me, 79343740, DIRECT, 1c1b7acf4992136c
-line.me, 9245314, DIRECT, 1c1b7acf4992136c
-line.me, 66698912, DIRECT, 1c1b7acf4992136c
-line.me, 70025920, DIRECT, 1c1b7acf4992136c
-line.me, 85216234, DIRECT, 1c1b7acf4992136c
+fivecdm.com,62077652,DIRECT
 ##LINE##
 ##chartboost##
 chartboost.com, 677bd813d438ba5ed45be58f, DIRECT
