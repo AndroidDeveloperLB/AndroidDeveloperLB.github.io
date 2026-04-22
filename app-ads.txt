@@ -2693,8 +2693,7 @@ rubiconproject.com, 27320, RESELLER, 0bfd66d529a55807
 
 ##prado##
 ##gravite##
-
-### Gravite SDK Mediation Start | 20250204 ###
+ 
 facebook.com, 267504663784963, RESELLER, c3e20eee3f780d68
 applovin.com, 3c7d6e6fa10bb0b565aa77ebead66872, RESELLER
 applovin.com, fb363df10863e6ca6db95bc1ef3134ad, RESELLER
@@ -2724,10 +2723,8 @@ smartadserver.com, 4074, RESELLER
 axonix.com, 57264, RESELLER
 unity3d.com, 30043, RESELLER, 96cabb5fbdde37a7
 verve.com, 14619, RESELLER, 0c8f5958fc2d6270
-vungle.com, 5a53889945eaab512501251e, RESELLER, c107d686becd2d77
-### Gravite SDK Mediation End | 20241210 ###
-
-### Gravite Marketplace Start | 20250106 ###
+vungle.com, 5a53889945eaab512501251e, RESELLER, c107d686becd2d77 
+ 
 #2
 smartyads.com, 300040, RESELLER, fd2bde0ff2e62c5d 
 adform.com, 2795, RESELLER
@@ -3330,8 +3327,7 @@ video.unrulymedia.com, 811851643, RESELLER
 152media.info,152M1054,RESELLER
 rubiconproject.com, 27026, RESELLER, 0bfd66d529a55807
 pubmatic.com, 157577, RESELLER, 5d62403b186f2ace
-openx.com, 540224251, RESELLER, 6a698e2ec38604c6
-### Gravite Marketplace End | 20250204 ###
+openx.com, 540224251, RESELLER, 6a698e2ec38604c6 
 ##gravite##
 ##yandex##
 e-planning.net, 2f3a04630ba9ba3f, RESELLER, c1ba615865ed87b2
