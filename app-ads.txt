@@ -1925,6 +1925,11 @@ playdigo.com, 2091, RESELLER, 92011346d63d3c30
 adnimation.com, 20250084, RESELLER
 pubnative.net, 1017792, RESELLER, d641df8625486a7b
 pubmatic.com, 167981, RESELLER, 5d62403b186f2ace
+ogury.com, 260f8f9c-5adc-46ca-9418-ed6ad8948af7, RESELLER
+media.net, 8CA7BO5Y1, RESELLER, 818f58666cabc936
+media.net, 8CAOK5V3Y, RESELLER, 818f58666cabc936
+improvedigital.com, 2883, RESELLER
+improvedigital.com, 2884, RESELLER
 ##mintegral##
 ##Mobfox##
 uis.mobfox.com, 2358, DIRECT, 5529a3d1f59865be
