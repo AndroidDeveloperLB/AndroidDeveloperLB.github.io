@@ -802,7 +802,7 @@ loopme.com, 11414, RESELLER, 6c8d5f95897a5a3b
 improvedigital.com, 2607, RESELLER
 themediagrid.com, WS2D8N, RESELLER, 35d5010d7789b49d
 outbrain.com, 0073fa86cff719c752763d2c3ee52c8f00, RESELLER
-pubmatic.com, 163758, RESELLER, 5d62403b186f2ace
+themediagrid.com, 29IN8P, RESELLER, 9fac4a4a87c2a44f
 rubiconproject.com, 16928, RESELLER, 0bfd66d529a55807
 pubmatic.com, 157097, RESELLER, 5d62403b186f2ace
 indexexchange.com, 215209, RESELLER, 50b1c356f2c5c8fc
@@ -848,6 +848,7 @@ video.unrulymedia.com, 188404962, RESELLER
 smilewanted.com, 6022, RESELLER
 conversantmedia.com, 100357, RESELLER, 03113cd04947736d
 selectmedia.asia, 645b5a31e427dc0a87094fc4, RESELLER, e365c871a27c655d
+anzu.io, 6995dd6e4b45334cc758cd8f, RESELLER
 onlinemediasolutions.com, 29556, RESELLER, b3868b187e4b6402
 eliteappgrade.com, 514554, RESELLER
 peak226.com, 12904, RESELLER
@@ -1764,6 +1765,9 @@ media.net, 8CA7BO5Y1, RESELLER, 818f58666cabc936
 media.net, 8CAOK5V3Y, RESELLER, 818f58666cabc936
 improvedigital.com, 2883, RESELLER
 improvedigital.com, 2884, RESELLER
+bidmachine.io, 1592, RESELLER
+richaudience.com, x1vKpaGD9I, RESELLER
+aniview.com, 69d24331b4476e4a300e1584, RESELLER, 78b21b
 ##mintegral##
 ##Mobfox##
 uis.mobfox.com, 2358, DIRECT, 5529a3d1f59865be
@@ -2460,6 +2464,7 @@ adform.com, 3400, RESELLER, 9f5210a2f0999e32
 ogury.com, 065d4ff5-a269-44be-9634-9d4d7af2dfc3, RESELLER
 video.unrulymedia.com, 703273072, RESELLER
 media.net, 8CU675N41, RESELLER
+e-planning.net, 6a7f877127485fdb, RESELLER, c1ba615865ed87b2
 ##unity##
 ##onetag##
 onetag.com, 927fdaf242f43e8, DIRECT
