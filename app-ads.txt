@@ -2467,6 +2467,7 @@ video.unrulymedia.com, 703273072, RESELLER
 media.net, 8CU675N41, RESELLER
 e-planning.net, 6a7f877127485fdb, RESELLER, c1ba615865ed87b2
 insticator.com, cadff748-965f-4393-a76e-a8f902512bad, RESELLER, b3511ffcafb23a32
+bluexad.ai, 1996418805747683328, RESELLER
 ##unity##
 ##onetag##
 onetag.com, 927fdaf242f43e8, DIRECT
