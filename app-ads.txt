@@ -2654,6 +2654,9 @@ media.net, 8CU675N41, RESELLER
 e-planning.net, 6a7f877127485fdb, RESELLER, c1ba615865ed87b2
 insticator.com, cadff748-965f-4393-a76e-a8f902512bad, RESELLER, b3511ffcafb23a32
 bluexad.ai, 1996418805747683328, RESELLER
+pubmatic.com, 165854, RESELLER, 5d62403b186f2ace
+openx.com, 563905670, RESELLER, 6a698e2ec38604c6
+triplelift.com, 14798, RESELLER, 6c33edb13117fd86
 ##unity##
 ##onetag##
 onetag.com, 927fdaf242f43e8, DIRECT
