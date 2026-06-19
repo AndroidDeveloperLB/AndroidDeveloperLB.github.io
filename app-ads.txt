@@ -2038,6 +2038,7 @@ e-planning.net,864690bcd16cd011,RESELLER,c1ba615865ed87b2
 eliteappgrade.com,494223,RESELLER
 equativ.com,4762,RESELLER,060d053dcf45cbf3
 equativ.com,5026,RESELLER,060d053dcf45cbf3
+eskimi.com,2020001211,RESELLER
 freewheel.tv,534608-r-523319,RESELLER
 fromthetop.io,65536,RESELLER
 gitberry.com,405100012,RESELLER
