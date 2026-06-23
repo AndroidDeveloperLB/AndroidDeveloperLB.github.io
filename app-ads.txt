@@ -1954,6 +1954,29 @@ aniview.com, 69d24331b4476e4a300e1584, RESELLER, 78b21b
 bidline.net, 4d8b12af, RESELLER
 loopme.com, 20970, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 20968, RESELLER, 6c8d5f95897a5a3b
+toponad.com, 16385e313a271a, DIRECT, 1d49fe424a1a456d
+vidoomy.com, 7646534, DIRECT
+liftoff.io, 7f6945815e6, RESELLER
+opera.com, pub5881703796480, RESELLER, 55a0c5fd61378de3
+opera.com, pub4007008646336, RESELLER, 55a0c5fd61378de3
+opera.com, pub5865193350528, RESELLER, 55a0c5fd61378de3
+opera.com, pub7275292332480, RESELLER, 55a0c5fd61378de3
+opera.com, pub9598692093632, RESELLER, 55a0c5fd61378de3
+toponad.com, 1661f80179644e, DIRECT, 1d49fe424a1a456d
+webeyemob.com, 70098, DIRECT
+rubiconproject.com, 15268, DIRECT, 0bfd66d529a55807
+smaato.com, 1100057628, DIRECT, 07bcf65f187117b4
+onetag.com, 8dd8de7f341d57e, RESELLER
+onetag.com, 82e44d118b79600, DIRECT
+admatic.com.tr, adm-pub-3033566192, DIRECT, uufps1dh5stc6euk
+admixer.net, f6790c61-b9ce-49b0-b809-059710d60dfd, DIRECT
+opera.com, pub11079554715136, DIRECT, 55a0c5fd61378de3
+krushmedia.com, AJxF6R192a9M6CaTvK, DIRECT
+themediagrid.com, NG9STC, DIRECT, 35d5010d7789b49d
+zmaticoo.com, 114490, DIRECT
+opera.com, pub10014056052800, RESELLER, 55a0c5fd61378de3
+smaato.com, 1100057546, DIRECT, 07bcf65f187117b4
+smaato.com, 1100004890, DIRECT, 07bcf65f187117b4
 ##mintegral##
 ##Mobfox##
 uis.mobfox.com, 2358, DIRECT, 5529a3d1f59865be
