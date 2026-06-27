@@ -3940,4 +3940,8 @@ pubmatic.com,167644,RESELLER,5d62403b186f2ace
 triplelift.com,14600,RESELLER,6c33edb13117fd86
 pubmatic.com,166385,RESELLER,5d62403b186f2ace
 triplelift.com,14709,RESELLER,6c33edb13117fd86
+rubiconproject.com,26254,RESELLER,0bfd66d529a55807
+xandr.com,15688,RESELLER
+adagio.io,1570,RESELLER
+adyoulike.com,37dc355eea6a93f29540b04cf8ef0731,RESELLER
 ##zmaticoo##
