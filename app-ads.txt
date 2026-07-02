@@ -3950,4 +3950,16 @@ triplelift.com,14814,RESELLER,6c33edb13117fd86
 monetrix.ai,10693,RESELLER
 aceex.io,2524,RESELLER,b1cf3c874d5c6682
 copper6.com,766220,RESELLER
+pwr-games.com,843083,RESELLER
+driftpixel.ai,3258933356,RESELLER
+zetaglobal.net,590,RESELLER
+lijit.com,543099,RESELLER,fafdf38b16bf6b2b
+adyoulike.com,c614809b152a27591ea9698975956f33,RESELLER
+zetaglobal.net,735,RESELLER
+triplelift.com,14805,RESELLER,6c33edb13117fd86
+smaato.com,1100060225,RESELLER,07bcf65f187117b4
+media.net,8CA8O7D3V,RESELLER
+sharethrough.com,jLTNbU7J,RESELLER,d53b998a7bd4ecd2
+loopme.com,15685,RESELLER,6c8d5f95897a5a3b
+nativo.com,6152,RESELLER,59521ca7cc5e9fee
 ##zmaticoo##
