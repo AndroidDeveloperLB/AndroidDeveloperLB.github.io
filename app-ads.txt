@@ -4136,4 +4136,6 @@ rubiconproject.com,27784,RESELLER,0bfd66d529a55807
 adgrid.io,32834,RESELLER
 trustedstack.com,TS4T2LX5I,RESELLER
 blasto.ai,479,RESELLER,7e936b1feafdaa61
+onetag.com,925c9abc9f939ec,RESELLER
+truvid.com,2727,RESELLER
 ##zmaticoo##
