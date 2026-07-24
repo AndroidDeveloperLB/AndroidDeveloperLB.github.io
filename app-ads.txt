@@ -4152,4 +4152,17 @@ triplelift.com,14713,RESELLER,6c33edb13117fd86
 pubmatic.com,166981,RESELLER,5d62403b186f2ace
 smilewanted.com,5980,RESELLER
 lijit.com,546496,RESELLER,fafdf38b16bf6b2b
+appnexus.com,11487,RESELLER,f5ab79cb980f11d1
+appnexus.com,13774,RESELLER,f5ab79cb980f11d1
+appnexus.com,15325,RESELLER,f5ab79cb980f11d1
+video.unrulymedia.com,565904054,RESELLER
+adagio.io,1531,RESELLER
+152media.info,152M1215,RESELLER
+aps.amazon.com,4d4c8d3b-7851-43b9-afba-820ea7c3f5dc,RESELLER
+video.unrulymedia.com,244078412,RESELLER
+appnexus.com,17383,RESELLER,f5ab79cb980f11d1
+appnexus.com,8610,RESELLER,f5ab79cb980f11d1
+appnexus.com,10478,RESELLER,f5ab79cb980f11d1
+bidfuse.com,bf120820251337X,RESELLER
+qntv.io,12410726,DIRECT
 ##zmaticoo##
