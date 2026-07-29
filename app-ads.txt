@@ -4191,4 +4191,5 @@ appnexus.com,10478,RESELLER,f5ab79cb980f11d1
 bidfuse.com,bf120820251337X,RESELLER
 qntv.io,12410726,DIRECT
 spinx.biz,1373698936,DIRECT
+antipodesdigital.com,327,RESELLER
 ##zmaticoo##
