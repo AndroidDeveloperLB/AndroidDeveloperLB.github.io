@@ -4209,4 +4209,12 @@ themediagrid.com,IWU9NP,RESELLER,35d5010d7789b49d
 targetbetter.com,Z84235,DIRECT
 pubmatic.com,166924,RESELLER,5d62403b186f2ace
 appnexus.com,13391,RESELLER,f5ab79cb980f11d1
+themediagrid.com,IOSRAB,RESELLER,9fac4a4a87c2a44f
+ogury.com,791c975b-d976-4a24-ab97-3b8ed94291dc,RESELLER
+video.unrulymedia.com,352118601,RESELLER
+themediagrid.com,IWU9NP,RESELLER,35d5010d7789b49d
+9dotsmedia.com,4507,RESELLER
+targetbetter.com,Z84235,DIRECT
+pubmatic.com,166924,RESELLER,5d62403b186f2ace
+appnexus.com,13391,RESELLER,f5ab79cb980f11d1
 ##zmaticoo##
