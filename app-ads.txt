@@ -4230,4 +4230,6 @@ nextmillennium.io,16399,RESELLER,65bd090fa4a1e3d6
 triplelift.com,14718,RESELLER,6c33edb13117fd86
 opera.com,pub5865193350528,DIRECT,55a0c5fd61378de3
 appnexus.com,12840,RESELLER,f5ab79cb980f11d1
+smaato.com,1100058459,RESELLER,07bcf65f187117b4
+pubnative.net,1016803,RESELLER,d641df8625486a7b
 ##zmaticoo##
