@@ -2151,6 +2151,7 @@ openx.com, 561621168, DIRECT, 6a698e2ec38604c6
 ##openx##
 ##vungle or liftoff##
 vungle.com,67681bb9dedcad00113cf7dd,DIRECT,c107d686becd2d77
+vungle.com,67681bb9dedcad00113cf7dd,DIRECT,c107d686becd2d77
 33across.com,001Pg0000197KcKIAU,RESELLER,bbea06d9c4d2853c
 Contextweb.com,562852,RESELLER,89ff185a4c4e857c
 Media.net,8CU12AQ1Y,RESELLER
@@ -2450,6 +2451,7 @@ sovrn.com,500520,RESELLER,fafdf38b16bf6b2b
 ssp.zetaglobal.net,815,RESELLER
 start.io,162328800,RESELLER
 targetspot.com,297,RESELLER,feb28ed826dcf532
+taurusx.com,70090,RESELLER
 taurusx.com,80609,RESELLER
 taurusx.com,80614,RESELLER
 thebrave.io,1234632,RESELLER,c25b2154543746ac
