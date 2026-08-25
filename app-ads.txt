@@ -2151,7 +2151,6 @@ openx.com, 561621168, DIRECT, 6a698e2ec38604c6
 ##openx##
 ##vungle or liftoff##
 vungle.com,67681bb9dedcad00113cf7dd,DIRECT,c107d686becd2d77
-vungle.com,67681bb9dedcad00113cf7dd,DIRECT,c107d686becd2d77
 33across.com,001Pg0000197KcKIAU,RESELLER,bbea06d9c4d2853c
 Contextweb.com,562852,RESELLER,89ff185a4c4e857c
 Media.net,8CU12AQ1Y,RESELLER
@@ -2167,7 +2166,6 @@ admanmedia.com,2045,RESELLER
 admanmedia.com,2248,RESELLER
 admanmedia.com,990,RESELLER
 admixer.co.kr,1610,RESELLER
-admixer.co.kr,1654,RESELLER
 admixer.net,5c5e6567-8486-42b9-9315-9262bd744b71,RESELLER
 advlion.com,3117,RESELLER
 adyoulike.com,76375ac0f5abb5a550c87326b9063b59,RESELLER
@@ -2241,7 +2239,6 @@ improvedigital.com,2605,RESELLER
 improvedigital.com,2606,RESELLER
 improvedigital.com,2607,RESELLER
 inmobi.com,22e5354e453f49348325184e25464adb,RESELLER,83e75a7ae333ca9d
-inmobi.com,38e36193f3c944d0b6254c71e511041b,RESELLER,83e75a7ae333ca9d
 inmobi.com,5d2c913a0c5f4142acc7412723ee15d7,RESELLER,83e75a7ae333ca9d
 inmobi.com,867c89bb53994aaeb9dae3ce75b03e78,RESELLER,83e75a7ae333ca9d
 inmobi.com,ec6f6ceb8bb1440ba5455644ec96c275,RESELLER,83e75a7ae333ca9d
@@ -2375,7 +2372,6 @@ rubiconproject.com,20050,RESELLER,0bfd66d529a55807
 rubiconproject.com,20744,RESELLER,0bfd66d529a55807
 rubiconproject.com,23644,RESELLER,0bfd66d529a55807
 rubiconproject.com,23980,RESELLER,0bfd66d529a55807
-rubiconproject.com,24362,RESELLER,0bfd66d529a55807
 rubiconproject.com,24400,RESELLER,0bfd66d529a55807
 rubiconproject.com,24448,RESELLER,0bfd66d529a55807
 rubiconproject.com,24752,RESELLER,0bfd66d529a55807
@@ -2496,7 +2492,6 @@ video.unrulymedia.com,947824792,RESELLER
 videoheroes.tv,212428,RESELLER,064bc410192443d8
 videoheroes.tv,212450,RESELLER,064bc410192443d8
 visiblemeasures.com,1004,RESELLER
-webeyemob.com,80609,RESELLER
 xandr.com,10128,RESELLER,f5ab79cb980f11d1
 xandr.com,13293,RESELLER,f5ab79cb980f11d1
 xandr.com,13297,RESELLER,f5ab79cb980f11d1
@@ -4309,4 +4304,5 @@ sharethrough.com,3262,RESELLER,d53b998a7bd4ecd2
 9dotsmedia.com,9DM4,DIRECT
 9dotsmedia.com,9DM5,DIRECT
 rubiconproject.com,28767,RESELLER,0bfd66d529a55807
+verve.com,1016803,RESELLER,0c8f5958fc2d6270
 ##zmaticoo##
