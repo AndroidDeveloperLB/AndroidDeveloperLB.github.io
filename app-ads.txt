@@ -3743,4 +3743,5 @@ mediafuse.com, 720, RESELLER
 nativo.com,6089,RESELLER,59521ca7cc5e9fee
 openx.com, 537100188, RESELLER, 6a698e2ec38604c6
 pubnative.net, 1016803, RESELLER, d641df8625486a7b
+insticator.com, e2d3e33c-9911-477a-8ae2-f059870c67c0, RESELLER, b3511ffcafb23a32
 ##Bigo ads##
