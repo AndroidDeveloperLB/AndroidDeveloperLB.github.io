@@ -798,6 +798,7 @@ pubmatic.com, 156931, RESELLER, 5d62403b186f2ace
 algorix.co, 54190, RESELLER, 5b394c12fea27a1d
 bidmachine.io, 100, RESELLER
 vidazoo.com, 6ab4e4454da99de3c4d515c9, RESELLER, b6ada874b4d7d0b2
+indexexchange.com, 220189, RESELLER, 50b1c356f2c5c8fc
 loopme.com, 11414, RESELLER, 6c8d5f95897a5a3b
 openx.com, 541017750, RESELLER, 6a698e2ec38604c6
 triplelift.com, 11883, RESELLER, 6c33edb13117fd86
